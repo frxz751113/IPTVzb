@@ -90,8 +90,8 @@ if unique_ips_ports:
         print(f"找到可访问的视频流服务: {valid_ip}")
         # 定义需要更新的文件列表
         files_to_update = [
-            {'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/广东电信.txt', 'filename': '广东电信.txt'} #,
-            #{'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/广东电信.m3u', 'filename': '广东电信.m3u'}
+            {'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/广东电信.txt', 'filename': '广东电信.txt'} #,
+            #{'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/广东电信.m3u', 'filename': '广东电信.m3u'}
         ]
 
         # 更新文件中的IP地址和端口号
@@ -187,8 +187,8 @@ if unique_ips_ports:
         print(f"找到可访问的视频流服务: {valid_ip}")
         # 定义需要更新的文件列表
         files_to_update = [
-            {'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/四川电信.txt', 'filename': '四川电信.txt'} #,
-            #{'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/广东电信.m3u', 'filename': '广东电信.m3u'}
+            {'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/四川电信.txt', 'filename': '四川电信.txt'} #,
+            #{'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/广东电信.m3u', 'filename': '广东电信.m3u'}
         ]
 
         # 更新文件中的IP地址和端口号
@@ -284,8 +284,8 @@ if unique_ips_ports:
         print(f"找到可访问的视频流服务: {valid_ip}")
         # 定义需要更新的文件列表
         files_to_update = [
-            {'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/湖北电信.txt', 'filename': '湖北电信.txt'} #,
-            #{'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/广东电信.m3u', 'filename': '广东电信.m3u'}
+            {'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/湖北电信.txt', 'filename': '湖北电信.txt'} #,
+            #{'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/广东电信.m3u', 'filename': '广东电信.m3u'}
         ]
 
         # 更新文件中的IP地址和端口号
@@ -380,8 +380,8 @@ if unique_ips_ports:
         print(f"找到可访问的视频流服务: {valid_ip}")
         # 定义需要更新的文件列表
         files_to_update = [
-            {'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/河北电信.txt', 'filename': '河北电信.txt'} #,
-            #{'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/广东电信.m3u', 'filename': '广东电信.m3u'}
+            {'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/河北电信.txt', 'filename': '河北电信.txt'} #,
+            #{'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/广东电信.m3u', 'filename': '广东电信.m3u'}
         ]
 
         # 更新文件中的IP地址和端口号
@@ -476,8 +476,8 @@ if unique_ips_ports:
         print(f"找到可访问的视频流服务: {valid_ip}")
         # 定义需要更新的文件列表
         files_to_update = [
-            {'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/湖南电信.txt', 'filename': '湖南电信.txt'} #,
-            #{'url': 'https://raw.githubusercontent.com/frxz751113/zubotv/main/udp/广东电信.m3u', 'filename': '广东电信.m3u'}
+            {'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/湖南电信.txt', 'filename': '湖南电信.txt'} #,
+            #{'url': 'https://raw.githubusercontent.com/frxz751113/IPTVzb/main/广东电信.m3u', 'filename': '广东电信.m3u'}
         ]
 
         # 更新文件中的IP地址和端口号
