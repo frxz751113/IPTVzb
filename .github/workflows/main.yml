@@ -2,7 +2,7 @@ name: ip更新
 on:
    #push:
    schedule:
-    - cron: '50 */24 * * *'
+    - cron: '50 */8 * * *'
    workflow_dispatch:
  
 jobs:
